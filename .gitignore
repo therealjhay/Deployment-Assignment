@@ -1,0 +1,33 @@
+# Hardhat
+artifacts/
+cache/
+typechain-types/
+*.ts.js
+.env
+.env.local
+.env.*.local
+
+# Foundry
+out/
+build/
+cache/
+broadcast/
+
+# Dependencies
+node_modules/
+.npm
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
